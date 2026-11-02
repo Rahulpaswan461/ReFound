@@ -12,7 +12,7 @@ You save great things and never go back to them. ReFound quietly brings them bac
 Every day, ReFound picks a few bookmarks you've probably forgotten and shows them on your new tab page. Read one now, remind yourself later, or dismiss it. There's nothing new to learn: keep bookmarking the way you always have.
 
 - A few picks a day, never a to-do list
-- Later tabs shrink to one quiet line, and you can pause any day
+- Once you've acted on a pick, later tabs show the rest on one quiet line, and you can pause any day
 - Search the web and your bookmarks from one box
 - A searchable library with your folders
 - Beautiful backgrounds, or upload your own

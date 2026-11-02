@@ -1,6 +1,6 @@
 # ReFound privacy policy
 
-Last updated: November 1, 2026
+Last updated: November 2, 2026
 
 ReFound is a Chrome extension that shows forgotten bookmarks on your new tab page.
 
@@ -22,4 +22,4 @@ Settings > Your data > Clear ReFound data removes ReFound's history, settings an
 ReFound's use of information follows the Chrome Web Store User Data Policy, including the Limited Use requirements.
 
 ## Contact
-[your contact email]
+rahulpaswandoon@gmail.com
