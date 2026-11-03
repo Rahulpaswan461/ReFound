@@ -14,9 +14,8 @@ Everything to upload is in this folder.
 
 ## Before you start
 
-1. In `privacy-policy.html`, replace `[your contact email]` with a real email address.
-2. Put `privacy-policy.html` at a public web address. The quickest free way is GitHub Pages: create a public repository, upload the file as `index.html`, then turn on Pages in Settings > Pages. Open the link in a private window to check it loads.
-3. Search "ReFound" in the Chrome Web Store to confirm the name is still free.
+1. The privacy policy is published from the repository's `site/` folder by `.github/workflows/pages.yml`, at https://rahulpaswan461.github.io/ReFound/privacy/. After changing `docs/PRIVACY.md`, copy the change into `site/privacy/index.html` and push. Open the link in a private window to check it loads.
+2. Search "ReFound" in the Chrome Web Store to confirm the name is still free.
 
 ## Publish
 
@@ -36,7 +35,7 @@ Everything to upload is in this folder.
    - Remote code: No.
    - Data usage: answer to match `privacy-policy.html`. ReFound reads bookmarks, keeps everything on the device, and sends nothing to any server.
    - Tick the three certification boxes, which say you don't sell data, don't use it for unrelated purposes and don't use it for credit decisions.
-   - Privacy policy URL: your public link from step 2 above.
+   - Privacy policy URL: https://rahulpaswan461.github.io/ReFound/privacy/
 6. **Distribution** tab: Free, all regions (or choose), visibility **Public**. Pick **Unlisted** if you want to test with friends first.
 7. **Test instructions** tab: paste "Test instructions" from `listing.md`.
 8. Click **Submit for review**. To choose your launch moment, untick "Publish automatically after review"; you then have 30 days to publish.
